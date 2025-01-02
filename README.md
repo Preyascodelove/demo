@@ -6,7 +6,4 @@ Adding some other texts
 
 Some changes are also required to modify
 
-<<<<<<< HEAD
-=======
-This is bound to call new issues
->>>>>>> verybad
+This is main content and changes may not be affected.
