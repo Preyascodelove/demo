@@ -6,4 +6,4 @@ Adding some other texts
 
 Some changes are also required to modify
 
-This is main content and changes may not be affected.
+Which is already conflicted
